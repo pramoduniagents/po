@@ -22,4 +22,7 @@ class dddddddddddd
     public function aaaaA2(){
 
     }
+    public function aaaaA3(){
+
+    }
 }
