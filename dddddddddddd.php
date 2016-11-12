@@ -18,4 +18,8 @@ class dddddddddddd
     public function aaaaA(){
 
     }
+
+    public function aaaaA2(){
+
+    }
 }
