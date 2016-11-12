@@ -9,4 +9,9 @@
 class dddddddddddd
 {
 
+
+
+    public function aaaa(){
+        
+    }
 }
