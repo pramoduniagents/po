@@ -12,6 +12,10 @@ class dddddddddddd
 
 
     public function aaaa(){
-        
+
+    }
+
+    public function aaaaA(){
+
     }
 }
